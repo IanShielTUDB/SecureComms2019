@@ -1,5 +1,5 @@
 # Secure Communications 
-### Mark Cummins
+## Ian Shiel - Original from Mark Cummins
 #### Technological University Dublin
 ---
 

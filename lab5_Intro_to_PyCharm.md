@@ -14,7 +14,7 @@ ___
     - Python Console
 4. Passing Arguments to Python
     - Using sys.argv
-6. Challenge Exercise for submission.
+6. CA coding assignment.
 
 ___
 
@@ -132,7 +132,7 @@ Create a new python file to try solve each of the following:
 
 > Hint: Try using bin(str(number))[2:]    
 
-### Challenge Exercise for submission
+### Continuous Assessment assignment for submission
 
 In the previous labs we looked at using the tr command to create some basic rotational ciphers. Well lets step it up a notch and see if we can can create a single universal rotational cipher brute forcing tool.
 

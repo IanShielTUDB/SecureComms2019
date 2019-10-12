@@ -6,6 +6,8 @@ Git is basically used by developers to keep track of their code changes, differe
 ___
 
 ## Lab Contents
+## Note - Adapted from Mark Cummins' SecureComms git repo MarkCumminsIRL
+## Ian Shiel October 2019
 
 1. Create a GitHub account.
 2. Installing Git.
@@ -43,8 +45,8 @@ We can verify we have Git successfully installed by using the version option.
 
 ```bash
 $ git --version
-git version 2.17.1
-```
+git version 2.7
+
 
 ### Configuring Git
 
@@ -122,7 +124,7 @@ So once we have updated our list for all files that have changed or have been cr
 > Hint: Change the URL in the following command to match your own account
 
 ```bash
-git remote add origin https://github.com/MarkCummins/MyFirstProject
+git remote add origin https://github.com/your-github-name/MyFirstProject
 git push -u origin master
 ```
 
@@ -240,6 +242,7 @@ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 ### More information on using and getting started with GitHub
 
-There is plenty more that you can do with Git and GitHub, especially when it comes to teams of people editing the same code, this is where version control really becomes useful. For now we can use it for syncing our project folders as a form of backups for our files. To find out more of the features of Git and GitHub check out the following [resources for learning Git](https://try.github.io/)
+There is plenty more that you can do with Git and GitHub, especially when it comes to teams of people editing the same code, this is where version control really becomes useful. 
+For now we can use it for syncing our project folders as a form of backups for our files. To find out more of the features of Git and GitHub check out the following [resources for learning Git](https://try.github.io/)
 
-### Lab Summary / Cheat-Sheet
+
