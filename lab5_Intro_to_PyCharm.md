@@ -1,4 +1,6 @@
-# Lab 5: Intro to Python with Pycharm
+# Lab 5: Intro to Python
+
+## This lab uses the Pycharm IDE - you are free to use whatever IDE you prefer - or none
 
 In this lab we will create our first project using the PyCharm IDE and we'll also have a quick look at finding our way around. We'll then create some basic python scripts to start our python coding.
 
