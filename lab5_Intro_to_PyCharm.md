@@ -138,6 +138,9 @@ In the previous labs we looked at using the tr command to create some basic rota
 
 Your cipher should read in the character sets you wish to use (dec for rot5, alpha for rot13 or caesar,all for rot47) and then the ciphertext you wish to brute force. Your cipher should then print out all possible decodings of the ciphertext given.
 
+In the example command line below "dec" and "'1'" are example arguments
+"dec" means that you want to use a decimal character set (i.e. rot5)
+'1' is the ciphertext
 
 ```bash
 $ python brute.py dec '1' 
